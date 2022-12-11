@@ -6,7 +6,7 @@
 
 - introduce students to discrete-time and continuous-time [signals](https://en.wikipedia.org/wiki/Signal)
 - enable students to represent signals as [Fourier series](https://en.wikipedia.org/wiki/Fourier_series)
-- enable students to analyze signals using [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform) and [Laplace transform](https://en.wikipedia.org/wiki/Laplace_transform)
+- enable students to analyze signals using [Fourier transform](https://en.wikipedia.org/wiki/Fourier_transform), [Laplace transform](https://en.wikipedia.org/wiki/Laplace_transform), and [Z-Transform](https://en.wikipedia.org/wiki/Z-transform)
 
 ## About this repository
 
